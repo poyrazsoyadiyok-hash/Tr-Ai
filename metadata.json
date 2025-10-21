@@ -1,0 +1,5 @@
+{
+  "name": "kumru.com",
+  "description": "An AI chat application with two distinct models: KumruPro for expert coding assistance and KumruFlash for quick, general-purpose answers. Engage in dynamic conversations and get the right response for your needs.",
+  "requestFramePermissions": []
+}
